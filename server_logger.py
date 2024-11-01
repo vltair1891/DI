@@ -1,8 +1,5 @@
 ﻿import logging
 
-
-
-
 def server_log(function_name='', level=logging.DEBUG, message=" "):
    logging.basicConfig(
        level=level,
