@@ -32,13 +32,14 @@ This exercise is presenting client server system for basic arithmetic calculatio
     ```bash
     cd path/to/project
     ```
-4. Run the server side first:
+4. IMPORTANT NOTE:SERVER_IP should be changed to your localhost IP in client_base_class.py and server_base_class in order to execute the scripts.
+5. Run the server side first:
     ```bash
     python3 server_base_class.py
     ```
-5. Run the client side:
+6. Run the client side:
     ```bash
     python3 client_base_class.py
     ```
-6. Log files (cliebt.log and server.log will be created upon first execution)
+7. Log files (cliebt.log and server.log will be created upon first execution)
 
